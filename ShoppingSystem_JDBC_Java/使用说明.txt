@@ -1,0 +1,1 @@
+本作业基于JDBC，请先使用文件夹中的createDatabase.sql建库脚本创建数据库及数据表
